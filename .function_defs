@@ -1,0 +1,6 @@
+build_slideshow() {
+  SCRIPT=$1
+  slideshow build $SCRIPT -t impress.js
+
+}
+

@@ -1,0 +1,14 @@
+
+alias gs='git status'
+alias gc='git commit -a -m'
+alias gp='git push origin master'
+alias gpu='git pull'
+alias ga='git add'
+alias beru='bundle exec ruby'
+alias ber='bundle exec rake'
+
+alias pm='python manage.py'
+alias pt='python manage.py test'
+alias val='vim ~/.aliases && source ~/.aliases'
+
+
